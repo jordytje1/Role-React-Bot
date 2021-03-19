@@ -3,7 +3,7 @@ module.exports = {
 	/**
 	 * Instructions on how to get this: https://redd.it/40zgse
 	 */
-	yourID: "",
+	yourID: "376384142599782410",
 
 	setupCMD: "!createrolemessage",
 
